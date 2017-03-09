@@ -2,9 +2,10 @@
 
 ## How to install:
 
-``cd ~``
-
-``git clone https://github.com/HexagramDev/shell-autostart.git .shell-autostart``
+```
+cd ~
+git clone https://github.com/HexagramDev/shell-autostart.git .shell-autostart
+```
 
 ## Add to ~/.bashrc or ~/.bash_profile:
 
@@ -16,6 +17,7 @@ Create file named ``.autostart`` in some directory and put there bash commands, 
 
 You can set Your own autostart file using ENV variable:
 
-``AUTOSTART_FILE=.autexec``
-
-``source ~/.shell-autostart/shell-autostart.sh``
+```
+AUTOSTART_FILE=.autexec
+source ~/.shell-autostart/shell-autostart.sh
+```
