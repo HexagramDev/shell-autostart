@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 
-AUTOSTART_FILE='.autostart'
+if [ ! ${AUTOSTART_FILE} ]; then
+    AUTOSTART_FILE='.autostart'
+fi
 
 function set_shell_autostart {
     if [ -f ${AUTOSTART_FILE} ]; then
