@@ -3,6 +3,7 @@
 ## How to install:
 
 ``cd ~``
+
 ``git clone https://github.com/HexagramDev/shell-autostart.git .shell-autostart``
 
 ## Add to ~/.bashrc or ~/.bash_profile:
