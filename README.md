@@ -4,7 +4,7 @@
 
 ```
 cd ~
-git clone https://github.com/HexagramDev/shell-autostart.git .shell-autostart
+git clone https://github.com/nowak-ninja/shell-autostart.git .shell-autostart
 ```
 
 ## Add to ~/.bashrc or ~/.bash_profile:
