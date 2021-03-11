@@ -18,6 +18,6 @@ Create file named ``.autostart`` in some directory and put there bash commands, 
 You can set Your own autostart file using ENV variable:
 
 ```
-AUTOSTART_FILE=.autexec
+AUTOSTART_FILE=.autoexec
 source ~/.shell-autostart/shell-autostart.sh
 ```
